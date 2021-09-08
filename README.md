@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm a dev. In Perth, Western Australia. I do dev things 😎: 
-topics | tools
+
+Topics | Tools
 --- | ---
 **Code** | ASP.NET, WinForms, WPF, UWP, Silverlight, Xamarin, Bash, PowerShell
 **Web** | Angular, AngularJS, Knockout, Ionic/Cordova
