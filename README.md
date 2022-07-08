@@ -10,14 +10,12 @@ Topics | Tools
 **IaC** | Bicep, Terraform, ARM
 **IoT** |Azure Event and IoT Hub, IoT Edge, Stream Analytics
 **Cloud** | Azure (Integration, Networking, Access Management, Apps, Kubernetes)
-**DevOps** | Azure DevOps, GitHub
+**DevOps** | Azure DevOps, GitHub, GitLab
 
-#### Personal Projects
-- [RPA Bank Statement processing](https://github.com/mrsmitty/86400-statement-process) 💰
-
-#### Work Projects
-- Power BI Service Integration 📉
-- [Azure API Management DevOps - API Developer lifecycle](https://github.com/Azure/azure-api-management-devops-resource-kit) 🔁
+#### Current Projects
+- GitLab to GitHub Migration
+- APIM DevOps
+- Enterprise Integration Platform
 
 ---
 
